@@ -1,0 +1,11 @@
+{
+  "name": "vianelli-drinks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional e carta de drinks da Vianelli Drinks",
+  "scripts": {
+    "dev": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "start": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "check": "node --check script.js"
+  }
+}
